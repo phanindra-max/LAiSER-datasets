@@ -1,0 +1,700 @@
+{"prompt": "Contextual Analysis", "completion": "Analyze a wide range of business contexts for ethical issues."}
+{"prompt": "Business Ethics Strategies Analysis", "completion": "Analyze business contexts for strategies to navigate ethical issues."}
+{"prompt": "Business Context Ethics Analysis", "completion": "Analyze a wide range of business contexts for strategies to navigate ethical issues."}
+{"prompt": "Create a Plan to Achieve Goals", "completion": "Create a plan to achieve self-motivated goals."}
+{"prompt": "Identify the Benefits of Self-Motivated Goals", "completion": "Identify the benefits of achieving self-motivated goals."}
+{"prompt": "Create Self-Motivated Goals", "completion": "Create self-motivated goals."}
+{"prompt": "Identify Self-Motivation Activities", "completion": "Identify activities that strengthen self-motivation."}
+{"prompt": "Prevent Burnout", "completion": "Demonstrate strategies that prevent burnout."}
+{"prompt": "Develop Action Plans", "completion": "Develop action plans designed to motivate and guide a person or group toward a goal."}
+{"prompt": "Plan a Schedule in Advance", "completion": "Plan a schedule in advance to include necessary tasks."}
+{"prompt": "Re-evaluate a Point of View", "completion": "Re-evaluate a point of view based on new information."}
+{"prompt": "Collaborate to Solve Challenges", "completion": "Collaborate with a team to solve challenging issues."}
+{"prompt": "Create a Goal Plan", "completion": "Create a plan to achieve identified goals."}
+{"prompt": "Evaluate Results Against Predetermined Goals", "completion": "Evaluate results to determine if a plan achieved the identified goals."}
+{"prompt": "Implement a Plan", "completion": "Implement a plan to achieve identified goals."}
+{"prompt": "Organize Project into Daily Tasks", "completion": "Organize each project into daily tasks."}
+{"prompt": "Track Task Deadlines", "completion": "Track deadlines with a task schedule."}
+{"prompt": "Schedule Due Dates", "completion": "Schedule due dates for task completion."}
+{"prompt": "Define Productivity Processes", "completion": "Define processes to facilitate the productivity of multiple people."}
+{"prompt": "Work with a Team", "completion": "Work with team members to complete goals."}
+{"prompt": "Implement Teamwork-Fostering Processes", "completion": "Implement tools and processes to foster teamwork and collaboration toward achieving shared goals."}
+{"prompt": "Technology Assessment", "completion": "Assess business requirements and priorities to determine needed changes to technology."}
+{"prompt": "Define Data to be Organized", "completion": "Define data that needs to be organized."}
+{"prompt": "Usage Data Structure Creation", "completion": "Create a data structure that is based on usage."}
+{"prompt": "Strengths, Weaknesses, Opportunities, and Threats (SWOT) Diagram Completion", "completion": "Complete a strengths, weaknesses, opportunities, and threats (SWOT) diagram for assessing choices."}
+{"prompt": "Awareness of Harmful Practices", "completion": "Raise awareness of harmful practices."}
+{"prompt": "Areas for Improved Efficiency Identification", "completion": "Identify areas for improved efficiency."}
+{"prompt": "Penetration Testing Solutions Development", "completion": "Develop penetration testing solutions."}
+{"prompt": "Develop Performance Evaluation Plans", "completion": "Develop a plan for implementing performance evaluation techniques."}
+{"prompt": "Process Design Participation", "completion": "Participate in process design and redesign projects to increase process efficiency and effectiveness."}
+{"prompt": "Software Development Standards Development", "completion": "Develop software development standards for release readiness."}
+{"prompt": "Capacity Model Development", "completion": "Develop basic capacity models of existing environments to improve efficiency."}
+{"prompt": "Maintain Development Life Cycle", "completion": "Maintain part of the development life cycle."}
+{"prompt": "Complex Database Management", "completion": "Manage complex databases and data warehouses for business optimization."}
+{"prompt": "Consistent Business Processes Execution", "completion": "Execute business processes consistently."}
+{"prompt": "Code Organization", "completion": "Organize code for better readability."}
+{"prompt": "Memory Architectures Differentiation", "completion": "Differentiate between memory architectures."}
+{"prompt": "Parallel Algorithm Design", "completion": "Design a parallel algorithm."}
+{"prompt": "Parallel Algorithm Implementation", "completion": "Implement a parallel algorithm."}
+{"prompt": "Thread Lock Identification", "completion": "Identify source code that could allow thread locking to occur."}
+{"prompt": "Simulated Attacks Documentation", "completion": "Document simulated attacks and responses of an organization's security infrastructure."}
+{"prompt": "Current Performance Baseline", "completion": "Determine the current baseline of performance for a given system."}
+{"prompt": "Optimal Performance Determination", "completion": "Determine an acceptable or optimal baseline of performance for a given system."}
+{"prompt": "System Part Identification", "completion": "Identify the part of a given system that is preventing the acceptable or optimal baseline of performance."}
+{"prompt": "System Part Modification", "completion": "Modify the part of a given system that is preventing the acceptable or optimal baseline of performance."}
+{"prompt": "System Performance Measurement", "completion": "Measure the performance of a given system after a modification and make additional modifications if needed."}
+{"prompt": "Function Type Differentiation", "completion": "Differentiate between scalar and table-valued functions."}
+{"prompt": "JOINs Differentiation", "completion": "Differentiate between types of JOINs."}
+{"prompt": "Query Optimization", "completion": "Optimize query performance using EXPLAIN PLAN."}
+{"prompt": "Table Partitioning Application", "completion": "Apply partitioned tables for data storage optimization."}
+{"prompt": "View Materialization Application", "completion": "Apply materialized views for query performance optimization."}
+{"prompt": "View Partitioning Application", "completion": "Apply partitioned views for query optimization."}
+{"prompt": "Goal Identification", "completion": "Identify goals for a short-term plan."}
+{"prompt": "Goal-Setting Theory Techniques Application", "completion": "Apply goal-setting theory techniques that result in better performance by increasing employee motivation and efforts."}
+{"prompt": "Priority List Creation", "completion": "Create a priority list to ensure the most important tasks are completed first."}
+{"prompt": "Task Completion Time Estimation", "completion": "Estimate time needed to complete tasks."}
+{"prompt": "Create Time Series Line Chart", "completion": "Create a line chart for time series data."}
+{"prompt": "Perform Time-Series Data Interpolation", "completion": "Perform interpolation of time-series data."}
+{"prompt": "Determine Time-Series Analysis Use", "completion": "Determine whether time-series analysis is appropriate."}
+{"prompt": "Identify Critical Pathways", "completion": "Identify critical paths for projects to deliver the Minimum Viable Product (MVP) on time."}
+{"prompt": "Estimate Human Resources", "completion": "Estimate the number of human resources required to complete a project development by a given deadline."}
+{"prompt": "Establish Deliverable Timeframes", "completion": "Establish a timeframe for each project deliverable."}
+{"prompt": "Project Task Delay Communication", "completion": "Communicate task delays that impact a project timeline."}
+{"prompt": "Resource Allocation for Project Completion", "completion": "Identify tasks that would significantly speed up project completion with additional allocated resources."}
+{"prompt": "Role Involvement Timeframe Estimation", "completion": "Estimate the timeframe for the involvement of other roles in a project."}
+{"prompt": "Task Completion Timeframe Estimation", "completion": "Estimate the time required for completing each task prior to sprint planning."}
+{"prompt": "Identify the Problem", "completion": "Identify the problem, including any symptoms and recent changes."}
+{"prompt": "Implement Potential Solutions", "completion": "Implement potential solutions to determine whether the problem is resolved."}
+{"prompt": "Problem Description", "completion": "Describe the problem, including any symptoms and recent changes."}
+{"prompt": "Problem Reproduction", "completion": "Reproduce the problem as closely as possible."}
+{"prompt": "Identify Potential Solutions", "completion": "Identify potential solutions to determine whether the problem is resolved."}
+{"prompt": "Troubleshoot Problems via Computer Programming", "completion": "Troubleshoot problems via computer programming based on specific constraints."}
+{"prompt": "Work-Around Implementation", "completion": "Implement a fix or work-around for all affected systems once the cause of the problem is identified."}
+{"prompt": "Code Baseline Creation", "completion": "Create a code baseline to execute test cases."}
+{"prompt": "Code Reworking", "completion": "Rework code until test case passes."}
+{"prompt": "Test Cases Creation", "completion": "Create test cases."}
+{"prompt": "Define User Interface Layers", "completion": "Define the user interface layers between a user and a computer system."}
+{"prompt": "Clear Message Delivery", "completion": "Deliver messages with a high degree of clarity."}
+{"prompt": "Code Quality Discussion", "completion": "Discuss code quality during code reviews."}
+{"prompt": "Communicate with Management", "completion": "Communicate development issues with management during a project."}
+{"prompt": "Communication Methods Deployment", "completion": "Deploy skilled communication methods to effectively deliver a message."}
+{"prompt": "Communication Technique Selection", "completion": "Select the appropriate communication technique to effectively deliver a message."}
+{"prompt": "Goal Achievement Communication", "completion": "Communicate with team members for achieving project goals."}
+{"prompt": "Software Development Communication", "completion": "Communicate verbally with team members in the development of software solutions."}
+{"prompt": "Idea Communication for Solutions", "completion": "Communicate solution ideas for software problems to team members."}
+{"prompt": "Identify Software Version Changes", "completion": "Identify the changes between the current and previous versions of software."}
+{"prompt": "Version Components Restoration", "completion": "Restore components of a previous version to the current version."}
+{"prompt": "Transmit Data", "completion": "Transmit data efficiently over a large geographical area through both hardware and software."}
+{"prompt": "Security Route Data", "completion": "Route data securely over a large geographical area through hardware and software."}
+{"prompt": "Business Logic Implementation", "completion": "Implement application and business logic."}
+{"prompt": "Data Stores Implementation", "completion": "Implement one or many data stores."}
+{"prompt": "Differentiate Markup Languages", "completion": "Differentiate between JavaScript Object Notation (JSON) and Extensible Markup Language (XML) for interoperable data exchange."}
+{"prompt": "Plan for API", "completion": "Plan for dynamic application programming interface (API) requests via GraphQL."}
+{"prompt": "Idempotent Implementation", "completion": "Implement idempotent application programming interfaces (APIs)."}
+{"prompt": "Apply Rate Limiting", "completion": "Apply rate limiting to protect application programming interface (API) resources."}
+{"prompt": "Representational State Transfer (REST) Implementation", "completion": "Implement representational state transfer (REST) application programming interfaces (APIs) in software solutions."}
+{"prompt": "Simple Object Access Protocol (SOAP) Implementation", "completion": "Implement Simple Object Access Protocol (SOAP) application programming interfaces (APIs)."}
+{"prompt": "Design APIs", "completion": "Design web service application programming interfaces (APIs)."}
+{"prompt": "Implement APIs", "completion": "Implement web service application programming interfaces (APIs)."}
+{"prompt": "Web Service Architecture Design", "completion": "Design web service architectures."}
+{"prompt": "Web Service Architecture Implementation", "completion": "Implement web service architectures."}
+{"prompt": "Determine Web Service Consumption", "completion": "Determine whether a web service should be consumed synchronously or asynchronously for a use case."}
+{"prompt": "Web Service API Testing", "completion": "Test a web service with an Application Programming Interface (API) testing platform."}
+{"prompt": "Web Services Creation Collaboration", "completion": "Collaborate with web developers to create and operate internal and external web services."}
+{"prompt": "Primary Key Creation", "completion": "Create a database column as the primary key."}
+{"prompt": "Physical Data Model Implementation", "completion": "Implement a physical data model."}
+{"prompt": "Design Conceptual Data Models", "completion": "Design a conceptual data model."}
+{"prompt": "Referential Integrity Table Creation", "completion": "Create a database table that maintains referential integrity."}
+{"prompt": "Foreign Key Creation", "completion": "Create a database column as a foreign key."}
+{"prompt": "Logical Data Model Creation", "completion": "Create a logical data model."}
+{"prompt": "Structured Query Language (SQL) Queries Creation", "completion": "Create ad hoc structured query language (SQL) queries and commands."}
+{"prompt": "Structured Query Language (SQL) Testing", "completion": "Test structured query language (SQL) scripts."}
+{"prompt": "Structured Query Language (SQL) Query Run", "completion": "Run a structured query language (SQL) query."}
+{"prompt": "Structured Query Language (SQL) Scripts Maintenance", "completion": "Maintain structured query language (SQL) scripts."}
+{"prompt": "Database Joins Differentiation", "completion": "Differentiate inner, outer, left, right, and full joins."}
+{"prompt": "Database Implementation", "completion": "Implement databases and database management systems."}
+{"prompt": "Structured Query Language (SQL) Scripts Creation", "completion": "Create structured query language (SQL) scripts to perform needed tasks."}
+{"prompt": "Script Task Identification", "completion": "Identify a script to accomplish particular tasks."}
+{"prompt": "Conduct Software Design Reviews", "completion": "Conduct regular software design reviews throughout the development process."}
+{"prompt": "Collaborative Troubleshooting", "completion": "Collaborate on troubleshooting software problems and recommending solutions."}
+{"prompt": "Data Point Alignment", "completion": "Align data with other data points."}
+{"prompt": "Business Data Optimization", "completion": "Optimize data for business use."}
+{"prompt": "Data Repository Extraction", "completion": "Extract data from a source repository."}
+{"prompt": "Extract, Transform, and Load (ETL) Data Transformation", "completion": "Transform data to increase quality based on requirements for extract, transform, and load (ETL)."}
+{"prompt": "Data Repository Loading", "completion": "Load data into a target repository."}
+{"prompt": "Audience Identification", "completion": "Identify the correct audience for a message."}
+{"prompt": "Message Medium Identification", "completion": "Identify the correct medium to deliver a message."}
+{"prompt": "Computer Attacks Simulation", "completion": "Simulate attacks on authorized computer systems."}
+{"prompt": "Systems Architecture Documentation", "completion": "Document system architectures."}
+{"prompt": "Virtual Storage Devices Creation", "completion": "Create virtual storage devices."}
+{"prompt": "Application Architecture Recommendations", "completion": "Recommend services that will improve application architecture."}
+{"prompt": "Existing Service Solution Design", "completion": "Design solutions that use existing services."}
+{"prompt": "Post-event Task Creation", "completion": "Create an automation task that runs after an event has occurred."}
+{"prompt": "System Architecture Documentation", "completion": "Document design specifications and related system architecture information."}
+{"prompt": "Timed Input Task Creation", "completion": "Create an automation task that runs based on timed input."}
+{"prompt": "Enterprise Architecture Technologies Analysis", "completion": "Analyze current and emerging technologies that support enterprise architecture."}
+{"prompt": "Virtual Computer Network Resources Creation", "completion": "Create virtual computer network resources."}
+{"prompt": "Resource Access Strategy Recommendation", "completion": "Recommend a resource access strategy."}
+{"prompt": "Security Identity Solutions Development", "completion": "Develop identity solutions that ensure the security of an organization's resources."}
+{"prompt": "Security Incidents Response Process Recommendation", "completion": "Recommend a process to ensure the proper response to security incidents."}
+{"prompt": "Flexible Technology Solution Identification", "completion": "Identify a single technology solution for multiple business needs."}
+{"prompt": "Technology Service Selection", "completion": "Select a technology service that fits a company need."}
+{"prompt": "Data Manipulation", "completion": "Manipulate data with computers."}
+{"prompt": "Computer Information Access", "completion": "Access information on a computer."}
+{"prompt": "Best Solution Recommendation", "completion": "Recommend the best solution for challenges."}
+{"prompt": "Complex Problem Solving", "completion": "Solve complex problems."}
+{"prompt": "Script Maintenance", "completion": "Maintain a script as needed."}
+{"prompt": "Script Sharing", "completion": "Share a script as needed."}
+{"prompt": "Script Writing", "completion": "Write a script to accomplish tasks."}
+{"prompt": "Challenge Solving Collaboration", "completion": "Collaborate with a team to solve challenges."}
+{"prompt": "User Interface Type Determination", "completion": "Determine the type of user interface to use."}
+{"prompt": "Web Page Style Definition", "completion": "Define the text styles, table aspects, and aesthetics of a web page using cascading style sheets (CSS)."}
+{"prompt": "Update Websites", "completion": "Update websites with new content and functionality."}
+{"prompt": "Format Web Pages", "completion": "Format web page layout using cascading style sheets (CSS)."}
+{"prompt": "Render Responsive Images", "completion": "Render responsive images on web pages."}
+{"prompt": "Implement Navigation", "completion": "Implement internet navigation."}
+{"prompt": "Create Web Pages and Documents", "completion": "Create web pages and web documents using hypertext markup language (HTML)."}
+{"prompt": "Website Purpose Identification", "completion": "Identify the purpose of a website."}
+{"prompt": "Leverage Website Frameworks", "completion": "Leverage existing frameworks, assets, and content for a website."}
+{"prompt": "User Interface Design", "completion": "Design user interface to meet functional requirements."}
+{"prompt": "Build Data Entry", "completion": "Build data-entry capabilities."}
+{"prompt": "User Interface Implementation", "completion": "Implement user interfaces."}
+{"prompt": "Website Navigation Organization", "completion": "Organize websites with a navigational scheme."}
+{"prompt": "Identify VPN Issues and Usage", "completion": "Identify VPN connection issues and VPN usage."}
+{"prompt": "Information Transmission", "completion": "Transmit information on a computer."}
+{"prompt": "Stored Personally Identifiable Information Identification", "completion": "Identify all personally identifiable information being stored in databases."}
+{"prompt": "Latest Cyber-Security Threats Description", "completion": "Describe the latest cyber-security threats affecting the industry."}
+{"prompt": "Industry Compliance Requirements Identification", "completion": "Identify regional, national, and industry compliance requirements."}
+{"prompt": "Different Service Components Identification", "completion": "Identify the different components that make up the infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) models."}
+{"prompt": "Scale Differentiation", "completion": "Differentiate between scale-up and scale-out."}
+{"prompt": "Cloud Software Value Articulation", "completion": "Articulate the value-add components of cloud versus on-premise software."}
+{"prompt": "Platform as a Service (PaaS) Identification", "completion": "Identify platform as a service (PaaS) offerings."}
+{"prompt": "Simultaneous Processes Identification", "completion": "Identify processes that can be performed simultaneously."}
+{"prompt": "Failure Point Determination", "completion": "Determine single points of failure."}
+{"prompt": "Software as a Service (SaaS) Model Use Cases Articulation", "completion": "Articulate the use cases of the software as a service (SaaS) model in relation to the infrastructure as a service (IaaS) and platform as a service (PaaS) models."}
+{"prompt": "Software as a Service (SaaS) Revenue Initiatives identification", "completion": "Identify ways to leverage software as a service (SaaS) to drive optimization and revenue initiatives."}
+{"prompt": "Cost and Licensing Considerations Identification", "completion": "Identify cost and licensing considerations for various infrastructure as a service (IaaS) models."}
+{"prompt": "List Platform as a Service (PaaS) Advantages and Disadvantages", "completion": "List advantages and disadvantages of using platform as a service (PaaS)."}
+{"prompt": "Platform as a Service (PaaS) Connection", "completion": "Connect to an instance of a platform as a service (PaaS)."}
+{"prompt": "Leveraging Opportunities Identification", "completion": "Identify opportunities to leverage infrastructure as a service (IaaS) for current infrastructure components."}
+{"prompt": "Bottleneck Identification", "completion": "Identify bottlenecks in a system."}
+{"prompt": "Data Format-Based Application Design", "completion": "Design application, service, or data store based on data format and structure."}
+{"prompt": "Unneeded Technology Services Identification", "completion": "Identify technology services that are no longer needed."}
+{"prompt": "Security Incident Response Solutions Design", "completion": "Design security incident response solutions."}
+{"prompt": "Platform as a Service (PaaS) Implementation", "completion": "Implement platform as a service (PaaS)."}
+{"prompt": "Infrastructure as a Service (IaaS) Implementation", "completion": "Implement infrastructure as a service (IaaS)."}
+{"prompt": "Software as a Service (SaaS) Implementation", "completion": "Implement software as a service (SaaS)."}
+{"prompt": "Implement Information Encryption Methods", "completion": "Implement information encryption methods and cryptography concepts."}
+{"prompt": "Data Aggregation", "completion": "Aggregate data into structured reporting systems."}
+{"prompt": "Identify Data Component Location", "completion": "Identify primary locations for various data components."}
+{"prompt": "Identify Data Visibility Requirements", "completion": "Identify data visibility requirements, such as asynchronous and synchronous data feeds."}
+{"prompt": "Implement Oracle Identity Analytics", "completion": "Implement Oracle Identity Analytics in the organization."}
+{"prompt": "Hardware Device Identification", "completion": "Identify different hardware devices."}
+{"prompt": "Operating System Purpose", "completion": "Identify the purpose of an operating system."}
+{"prompt": "Storage and Memory Differentiation", "completion": "Differentiate between storage and memory."}
+{"prompt": "Security Incident Response Solutions Development", "completion": "Develop security incident response solutions."}
+{"prompt": "Required Transmission Data Types Determination", "completion": "Determine the types of data that need to be transmitted based on business requirements."}
+{"prompt": "Systems Intrusions Monitoring", "completion": "Monitor systems for intrusions or denial-of-service (DoS) attacks and report security breaches to maintain information security."}
+{"prompt": "Goal Adjustment", "completion": "Adjust goals or steps as needed."}
+{"prompt": "Technical Concepts Presentation", "completion": "Present technical concepts to a non-technical audience."}
+{"prompt": "Backlog Tasks Prioritization", "completion": "Prioritize product backlog tasks."}
+{"prompt": "Debugging Prioritization", "completion": "Prioritize either network or client debugging."}
+{"prompt": "Optimization Prioritization", "completion": "Prioritize either central processing unit (CPU) or graphics processing unit (GPU) optimizations."}
+{"prompt": "Product Development Tasks Prioritization", "completion": "Prioritize product development tasks based on available resources."}
+{"prompt": "Code-Related Task Prioritization", "completion": "Prioritize code-related tasks across development iterations."}
+{"prompt": "Programming Task Prioritization", "completion": "Prioritize specific programming tasks over other tasks."}
+{"prompt": "Implement Business Processes Improvement", "completion": "Implement a systematic approach to improve business processes."}
+{"prompt": "Define Business Process Improvement Approach", "completion": "Define a systematic approach to improve business processes."}
+{"prompt": "Information Reporting", "completion": "Create information reports in a software application."}
+{"prompt": "Develop Professional Skill Set", "completion": "Develop proficiency in a skill set based on criteria established by a professional organization."}
+{"prompt": "Code Editors Evaluation", "completion": "Evaluate code editors."}
+{"prompt": "Database Management Tools Evaluation", "completion": "Evaluate database management tools."}
+{"prompt": "DevOps Tools Evaluation", "completion": "Evaluate DevOps tools."}
+{"prompt": "Read-Evaluate-Print Loop (REPL) Tools Evaluation", "completion": "Evaluate read-evaluate-print loop (REPL) tools."}
+{"prompt": "Source Control Tool Selection", "completion": "Select a source control tool."}
+{"prompt": "Manage Agile Projects", "completion": "Manage projects using agile software tools and development practices."}
+{"prompt": "Customer Needs Documentation", "completion": "Document customer needs and priorities."}
+{"prompt": "Prototype Opportunity Identification", "completion": "Identify prototyping opportunities."}
+{"prompt": "Minimum-Featured Prototype Design", "completion": "Design a minimum-featured prototype."}
+{"prompt": "Code Package Creation", "completion": "Create code in open-source Python packages."}
+{"prompt": "Condition Evaluation", "completion": "Evaluate conditions with Boolean values."}
+{"prompt": "Item Storage", "completion": "Store multiple items in a single variable with lists."}
+{"prompt": "Loop iterating", "completion": "Iterate through a dictionary with a FOR loop."}
+{"prompt": "Operator Coding", "completion": "Code with operators for basic math operations."}
+{"prompt": "Python Function Call", "completion": "Call functions using Python."}
+{"prompt": "Python Function Creation", "completion": "Create functions using Python."}
+{"prompt": "Python Loop Application", "completion": "Apply loops to iterate with Python."}
+{"prompt": "Python Variables Declaration", "completion": "Declare variables using Python."}
+{"prompt": "String Assignment", "completion": "Assign a string to a variable."}
+{"prompt": "Code Quality Improvement", "completion": "Improve software code quality through peer reviews."}
+{"prompt": "Peer Review Enforcement", "completion": "Enforce peer reviews using pull requests approvals."}
+{"prompt": "Peer Review Key Performance Indicators (KPI) Design", "completion": "Design key performance indicators (KPI) for code peer reviews."}
+{"prompt": "Plan Pipeline Testing", "completion": "Plan quality assurance tests integration within continuous integration/continuous delivery (CI/CD) pipelines."}
+{"prompt": "System Integration Tests Coordination", "completion": "Coordinate system integration tests across various development teams."}
+{"prompt": "Testing Aspects Differentiation", "completion": "Differentiate between functional and non-functional testing."}
+{"prompt": "Testing Strategy Creation", "completion": "Create a full-stack testing strategy."}
+{"prompt": "Unit Test Creation in Software Projects", "completion": "Create unit tests embedded within software projects."}
+{"prompt": "Define Desired Qualities", "completion": "Define a set of desired qualities for a given entity or system."}
+{"prompt": "Quality Control System Creation", "completion": "Create a given entity or system for quality control."}
+{"prompt": "Quality Control System Implementation", "completion": "Implement a given entity or system for quality control."}
+{"prompt": "Reflective Body Language", "completion": "Reflect a colleague's body language to build rapport."}
+{"prompt": "Common Interests", "completion": "Establish common interests with colleagues to build rapport."}
+{"prompt": "Empathetic Communication", "completion": "Communicate empathetically with colleagues to build rapport."}
+{"prompt": "Viewpoint Summarization", "completion": "Summarize a colleague's viewpoint to build rapport."}
+{"prompt": "Constraint Application", "completion": "Apply appropriate constraints to columns of data."}
+{"prompt": "Data Type Application", "completion": "Apply appropriate data types to data columns."}
+{"prompt": "Database Table Relationship Validation", "completion": "Validate the relationship between tables in a relational database with test scripts."}
+{"prompt": "Process Relational Database Data", "completion": "Process data in relational databases through configuration of stored procedures."}
+{"prompt": "Relational Database Data Updates", "completion": "Update data in relational databases using stored procedures."}
+{"prompt": "Organize Data with Columns", "completion": "Organize similar types of data into columns."}
+{"prompt": "One to Many Relationship Implementation", "completion": "Implement one-to-many relationships."}
+{"prompt": "Many to Many Relationship Implementation", "completion": "Implement many-to-many relationships."}
+{"prompt": "Opposing Sources Evaluation", "completion": "Evaluate sources with opposing conclusions."}
+{"prompt": "Bias Minimization", "completion": "Identify when additional sources are needed to minimize bias."}
+{"prompt": "Architecture Research", "completion": "Research new approaches to code architecture."}
+{"prompt": "External Services Technology Research", "completion": "Research external services for improving internal company technology."}
+{"prompt": "Programming Techniques Research", "completion": "Research leading-edge programming techniques."}
+{"prompt": "Source Reliability Validation", "completion": "Validate the reliability of sources."}
+{"prompt": "Leading-Edge Technical Solutions", "completion": "Research leading-edge solutions to technical challenges."}
+{"prompt": "Technical Research", "completion": "Research solutions based on technical specifications."}
+{"prompt": "Call Functions", "completion": "Call functions using Scala."}
+{"prompt": "Recursive Functions", "completion": "Call a recursive function using Scala."}
+{"prompt": "Iterative Looping", "completion": "Apply loops to iterate using Scala."}
+{"prompt": "Scala Function Creation", "completion": "Create functions using Scala."}
+{"prompt": "Scala Variables Declaration", "completion": "Declare numeric and character variables using Scala."}
+{"prompt": "Application Deployment Automation", "completion": "Create scripts that automate application deployments."}
+{"prompt": "Backup Automation", "completion": "Automate backups through scripting."}
+{"prompt": "Disk Usage Check Creation", "completion": "Create scripts that check for disk usage."}
+{"prompt": "File Automation Creation", "completion": "Automate daily file transfers through scripting."}
+{"prompt": "Log Maintenance", "completion": "Create scripts that rotate and archive logs."}
+{"prompt": "Script Documentation Creation", "completion": "Create a script that contains documentation within the script."}
+{"prompt": "Script Task Creation", "completion": "Create a script to accomplish a singular or multiple tasks."}
+{"prompt": "System Availability Checks", "completion": "Create scripts that check for system availability."}
+{"prompt": "Barrier Identification", "completion": "Identify barriers to task progress."}
+{"prompt": "Divide Tasks into Sprints", "completion": "Divide large computer programming tasks into shorter sprints."}
+{"prompt": "Meeting Preparation", "completion": "Prepare for daily standup meetings."}
+{"prompt": "Product Backlog Work Documentation", "completion": "Document work for completion in a scrum product backlog."}
+{"prompt": "Progress Reporting", "completion": "Report on daily computer programming progress."}
+{"prompt": "Scrum Meeting Work Documentation", "completion": "Document work since last scrum, work before next scrum, and any technical blockers in a daily scrum meeting."}
+{"prompt": "Software Problem Diagnosis", "completion": "Collaborate with developers and customers to evaluate or diagnose problems and recommend possible solutions for software development."}
+{"prompt": "Sprint Planning Documentation", "completion": "Document scheduled work tasks in scrum sprint planning process."}
+{"prompt": "Task Time Estimation", "completion": "Estimate the time required for a computer programming task."}
+{"prompt": "Self-Motivation Maintenance", "completion": "Maintain self-motivation through peer interaction."}
+{"prompt": "Skills Development Prioritization", "completion": "Prioritize skills for development to prevent burnout."}
+{"prompt": "Engage in Idea Research", "completion": "Engage in the research and development of ideas outside of work projects."}
+{"prompt": "Perform Tasks", "completion": "Perform programming tasks without micro-management."}
+{"prompt": "Service Solution Development", "completion": "Develop collaborative application and service solutions."}
+{"prompt": "Solution Performance Mapping", "completion": "Map the performance of a solution to numerical values."}
+{"prompt": "System Change Modeling", "completion": "Model impacts of changes to a system."}
+{"prompt": "System Randomness Addition", "completion": "Add randomness to a system."}
+{"prompt": "Simultaneous Localization and Mapping (SLAM) Implementation", "completion": "Implement simultaneous localization and mapping (SLAM) using an open source library."}
+{"prompt": "Check Understanding", "completion": "Check understanding with others."}
+{"prompt": "Initiatives Articulation", "completion": "Articulate ideas and initiatives concisely and professionally."}
+{"prompt": "Listen to Ideas", "completion": "Listen to others' ideas."}
+{"prompt": "Uncertainty Vocalization", "completion": "Vocalize any uncertainty in defined objectives."}
+{"prompt": "Business Requirements Identification", "completion": "Identify business requirements for software design."}
+{"prompt": "Software Architecture Development", "completion": "Develop software architectures from diagrams and technical documentation."}
+{"prompt": "Software Design Patterns Identification", "completion": "Identify software design patterns that match business requirements."}
+{"prompt": "Software Design Patterns Implementation", "completion": "Implement the software design patterns in an application."}
+{"prompt": "Software Design Patterns Optimization", "completion": "Optimize software design patterns for maintainability by application developers."}
+{"prompt": "Application Maintenance", "completion": "Maintain software applications via code-refactoring."}
+{"prompt": "LIVE Application Maintenance", "completion": "Maintain software applications during live operations."}
+{"prompt": "Software Lifecycle Plan Specification", "completion": "Specify a software development lifecycle plan that meets project requirements."}
+{"prompt": "Source Code Creation Process Documentation", "completion": "Document the process used to create and maintain software source code."}
+{"prompt": "Source Code Creation Process Implementation", "completion": "Implement a process to create and maintain software source code to achieve goals."}
+{"prompt": "Source Code Goals Identification", "completion": "Identify goals for creating and maintaining software source code."}
+{"prompt": "Software Application Components Design", "completion": "Develop software application components."}
+{"prompt": "Software Design Reviews", "completion": "Participate in software product design reviews."}
+{"prompt": "Software Testing Environment Configuration", "completion": "Configure software testing environments."}
+{"prompt": "Code Commenting", "completion": "Include comments formatted according to guidelines in computer code."}
+{"prompt": "Code Documentation Creation", "completion": "Create code documentation for code reviews."}
+{"prompt": "Design Documentation Creation", "completion": "Create technical design documentation for a project."}
+{"prompt": "Development Environment Plan", "completion": "Plan a development environment based on hardware specifications."}
+{"prompt": "Development Tasks Plan", "completion": "Plan a set of development tasks based on software specifications."}
+{"prompt": "Software Engineering Best-Practices", "completion": "Develop solutions that conform to software engineering rules and best practices."}
+{"prompt": "System Design Change Assessment", "completion": "Assess the impact of design changes to software systems."}
+{"prompt": "Developer Design Collaboration", "completion": "Collaborate with developers to determine the optimal software design."}
+{"prompt": "Software Systems Objectives Analysis", "completion": "Analyze the objectives, scope, and organizational impact of software systems."}
+{"prompt": "Software Application Update", "completion": "Update a software application based on test results."}
+{"prompt": "Functionality Test Analysis", "completion": "Analyze test results to of a software application's functionality."}
+{"prompt": "Test Scenario Recreation", "completion": "Recreate a failing scenario encountered during software testing."}
+{"prompt": "Unit Test Script Design", "completion": "Design unit test scripts for testing applications."}
+{"prompt": "Basic Spreadsheet Tasks", "completion": "Complete basic spreadsheet tasks for structured business practices and applications."}
+{"prompt": "Data Creation", "completion": "Create data using spreadsheets."}
+{"prompt": "Data Updating", "completion": "Update data using spreadsheets."}
+{"prompt": "Perform Aggregations", "completion": "Perform counts, sums, and other aggregations."}
+{"prompt": "Spreadsheet Data Organization", "completion": "Leverage spreadsheets to effectively organize data."}
+{"prompt": "Database Schema Design", "completion": "Design a database schema in third normal form."}
+{"prompt": "DELETE and TRUNCATE Differentiation", "completion": "Differentiate between DELETE and TRUNCATE statements."}
+{"prompt": "Queries Creation", "completion": "Create queries with diverse window functions."}
+{"prompt": "SQL Statement Categories", "completion": "Differentiate between SQL statement categories."}
+{"prompt": "Data Type Differentiation", "completion": "Differentiate between Unicode and non-Unicode textual data types."}
+{"prompt": "Stress Testing Software Configuration", "completion": "Configure stress testing software to force a system to fail."}
+{"prompt": "Stress Testing Troubleshooting", "completion": "Troubleshoot why a system failed during stress testing."}
+{"prompt": "System Component Modification", "completion": "Modify the components of a system based on stress testing results."}
+{"prompt": "Container Leveraging", "completion": "Leverage containers for auto-scaling microservice deployments."}
+{"prompt": "Correlation Identifiers Leveraging", "completion": "Leverage correlation identifiers that identify activity across all system components that service a request."}
+{"prompt": "Event-Driven Microservices Design", "completion": "Design event-driven microservices that publish and consume events."}
+{"prompt": "Event-Driven Architecture Design", "completion": "Leverage event-driven architecture for real-time data warehousing."}
+{"prompt": "System Architecture Validation", "completion": "Validate stability, interoperability, portability, security, and scalability of system architecture."}
+{"prompt": "System Architecture Design", "completion": "Design system architectures based on specifications."}
+{"prompt": "System Data Design", "completion": "Design system data and modules that best fit different system architecture requirements."}
+{"prompt": "Define Productivity Facilitation Processes", "completion": "Define processes to facilitate team productivity."}
+{"prompt": "Joint Effort Goals Identification", "completion": "Identify goals for a joint effort."}
+{"prompt": "Task Coordination", "completion": "Coordinate task distribution across a software development project team."}
+{"prompt": "Team Goal Completion", "completion": "Complete a goal as a team."}
+{"prompt": "Staff Development Path Creation", "completion": "Create a development path for staff."}
+{"prompt": "Innovative Idea Pursuit", "completion": "Pursue innovative ideas."}
+{"prompt": "Minimum Viable Product (MVP) Creation", "completion": "Create a minimum viable product (MVP)."}
+{"prompt": "Unconsidered Solutions Identification", "completion": "Identify solutions that have not yet been considered."}
+{"prompt": "Algorithms Inspection", "completion": "Inspect algorithms via breakpoints."}
+{"prompt": "Code Change Tracking", "completion": "Track code changes during development."}
+{"prompt": "Code Hinting", "completion": "Complete code snippets using IntelliSense."}
+{"prompt": "Code Refactoring Maintenance", "completion": "Maintain code quality using refactoring."}
+{"prompt": "Integrated Development Environments (IDEs) and Text Editors Differentiation", "completion": "Differentiate between integrated development environments (IDEs) and text editors."}
+{"prompt": "Troubleshoot Algorithm Debugging", "completion": "Troubleshoot algorithms via a debugger."}
+{"prompt": "Application Integration Configuration", "completion": "Configure the integration of different applications."}
+{"prompt": "Application Integration Data Problems Identification", "completion": "Identify data quality problems resulting from application integration."}
+{"prompt": "Process Diagram Creation", "completion": "Create a diagram of a process with standard flowcharting shapes."}
+{"prompt": "Process Steps Diagram Creation", "completion": "Create a diagram of the steps required in a process."}
+{"prompt": "Task Logic Analysis", "completion": "Analyze the logic required for coding a task."}
+{"prompt": "Define a Process", "completion": "Define processes for a flowchart."}
+{"prompt": "Define an Input", "completion": "Define inputs for a flowchart."}
+{"prompt": "Define an Output", "completion": "Define outputs for a flowchart."}
+{"prompt": "List Conversion", "completion": "Convert a list of tasks into a series of steps for a flowchart."}
+{"prompt": "Futures Values Extrapolation", "completion": "Extrapolate future values for time-series data."}
+{"prompt": "Hyper Text Markup Language (HTML) Design", "completion": "Design Hyper Text Markup Language (HTML) based on functional specifications."}
+{"prompt": "Input Validation", "completion": "Validate form inputs with JavaScript."}
+{"prompt": "Interface Aesthetics Implementation", "completion": "Implement interface aesthetics."}
+{"prompt": "Interface Functionality Implementation", "completion": "Implement interface functionality."}
+{"prompt": "Interface Structure Implementation", "completion": "Implement interface structure."}
+{"prompt": "Responsive Website Development", "completion": "Develop responsive websites for various browsers and screen sizes."}
+{"prompt": "Searchability Optimization", "completion": "Improve searchability results with search engine optimization (SEO) techniques."}
+{"prompt": "Website Design with Accessibility Options", "completion": "Incorporate accessibility options within website designs."}
+{"prompt": "Full Stack Software Engineering Solutions Components Implementation", "completion": "Implement components in the development of full stack software engineering solutions."}
+{"prompt": "Full Stack Software Engineering Solutions Design", "completion": "Design full stack software engineering solutions that meet client specifications."}
+{"prompt": "Full Stack Software Engineering Solutions Development", "completion": "Develop full stack software engineering solutions."}
+{"prompt": "Tools and Services Recommendation", "completion": "Recommend tools and services for a full stack software engineering solution."}
+{"prompt": "Build Google Cloud Continuous Integration and Continuous Delivery (CI/CD) Pipeline", "completion": "Build a continuous integration and continuous delivery (CI/CD) pipeline in Google Cloud for automated software delivery."}
+{"prompt": "Build Google Cloud-Reliant Programs", "completion": "Build programs that use Google Cloud resources."}
+{"prompt": "Cloud Build Software Implementation", "completion": "Implement software via Cloud Build."}
+{"prompt": "Google Cloud Applications Development", "completion": "Develop Google Cloud applications via language-specific libraries."}
+{"prompt": "Aggregate Data Architectures Implementation", "completion": "Implement architectures with high levels of aggregate data using the Hadoop Distributed File System (HDFS)."}
+{"prompt": "Highly Resilient Hardware Cluster Implementation", "completion": "Implement a highly resilient hardware cluster using Hadoop Distributed File System (HDFS)."}
+{"prompt": "Streaming Data Access Provision", "completion": "Provide access to high volumes of streaming data using Hadoop Distributed File System (HDFS)."}
+{"prompt": "3D Rendering Development", "completion": "Develop 3D rendering solutions via Hypertext Markup Language (HTML) and Three.js."}
+{"prompt": "Client Browser Data Storage", "completion": "Store data on a client browser."}
+{"prompt": "Customer Website Development", "completion": "Develop websites with Hypertext Markup Language (HTML)."}
+{"prompt": "Internet Games Development", "completion": "Develop internet games."}
+{"prompt": "Rendering Configuration Development", "completion": "Develop rendering configurations for canvas content in Hypertext Markup Language (HTML)."}
+{"prompt": "Web Application Development", "completion": "Develop enterprise web application front-ends with Hypertext Markup Language (HTML)."}
+{"prompt": "Technology Resources Access Management", "completion": "Manage access to technology resources across business departments."}
+{"prompt": "Image Compression Algorithms Differentiation", "completion": "Differentiate image compression algorithms."}
+{"prompt": "Image Filters Application", "completion": "Apply filters to an image."}
+{"prompt": "Perform Digital Image Transformation", "completion": "Perform a digital image transformation."}
+{"prompt": "Software Components Security Analysis", "completion": "Analyze the security of software components."}
+{"prompt": "Information Collection System Design", "completion": "Design a system for the collection of information."}
+{"prompt": "Information System Potential Failure Points Identification", "completion": "Identify potential points of failure in an information system."}
+{"prompt": "Idea Creation Experimentation", "completion": "Experiment with creating a novel or unique idea, question, system, or product by connecting ideas or solutions in novel ways."}
+{"prompt": "Fact Examination", "completion": "Examine facts to aid in making a decision."}
+{"prompt": "Bias Recognition in Solutions", "completion": "Identify when bias is present in a solution."}
+{"prompt": "Goal Identification", "completion": "Identify required business goals."}
+{"prompt": "Process Step Development", "completion": "Develop steps to achieve required business goals."}
+{"prompt": "Commercial Program Customization", "completion": "Customize commercial programs for internal needs."}
+{"prompt": "Architecture Analysis", "completion": "Analyze software architectures during code review."}
+{"prompt": "Code Architecture Design", "completion": "Incorporate details from customer specifications into code architecture design."}
+{"prompt": "Detailed Plan Design", "completion": "Design detail-oriented plans, scenarios, and procedures."}
+{"prompt": "Detailed Plan Implementation", "completion": "Implement detail-oriented plans, scenarios, and procedures."}
+{"prompt": "Procedure Adherence", "completion": "Adhere to a detailed procedure."}
+{"prompt": "Process Division", "completion": "Divide a process into detailed steps."}
+{"prompt": "Technical Documentation Review", "completion": "Review detailed technical documentation to ensure technical accuracy, compliance, completeness, or to mitigate risks."}
+{"prompt": "Technical Issue Cause Identification", "completion": "Identify detailed causes of technical issues using software and hardware tools."}
+{"prompt": "Automated Testing Tool Design", "completion": "Design automated testing tools and procedures."}
+{"prompt": "Automated Testing Tool Development", "completion": "Develop automated testing tools and procedures."}
+{"prompt": "Software Development Lifecycle Collaboration", "completion": "Collaborate with developers throughout the software development lifecycle."}
+{"prompt": "Docker Services Creation", "completion": "Create a Docker application's services using docker-compose."}
+{"prompt": "Dockerfile Path Configuration", "completion": "Configure the Dockerfile path option using the build option."}
+{"prompt": "Document Creation Method Provision", "completion": "Provide a method for creating, viewing, editing, deleting, and sharing documents by one or more users."}
+{"prompt": "Document Data Integrity Provision", "completion": "Provide auditing, data integrity, and security for documents."}
+{"prompt": "Document Versioning Control Provision", "completion": "Provide versioning control with restore capability for documents."}
+{"prompt": "Document Workflow Capabilities Provision", "completion": "Provide various workflow capabilities for documents."}
+{"prompt": "Business Units Analysis", "completion": "Analyze different business units for a company."}
+{"prompt": "Lead Requirements-Gathering Sessions", "completion": "Lead requirement-gathering sessions with key business units."}
+{"prompt": "Positive Technology Communication", "completion": "Communicate about a technology with positivity."}
+{"prompt": "Engage Actively in Meetings", "completion": "Engage actively in company meetings."}
+{"prompt": "Data Privacy Prioritization", "completion": "Prioritize data privacy during application development."}
+{"prompt": "Harm Identification", "completion": "Identify when a solution can be harmful to others."}
+{"prompt": "Inclusivity Prioritization", "completion": "Prioritize inclusivity during application development."}
+{"prompt": "User Privacy Prioritization", "completion": "Prioritize user privacy during application development."}
+{"prompt": "Document Type Definition (DTD) Creation", "completion": "Create a document type definition (DTD)."}
+{"prompt": "Document Type Definition (DTD) Link Creation", "completion": "Create a link from an extensible markup language (XML) document to a document type definition (DTD) document."}
+{"prompt": "Extensible Format Data Detection", "completion": "Discover data in extensible format."}
+{"prompt": "Extensible Format Data Identification", "completion": "Identify data in extensible format."}
+{"prompt": "Extensible Format Data Storage", "completion": "Store data in extensible format."}
+{"prompt": "Extensible Markup Language (XML) Data File Implementation", "completion": "Implement code for writing Extensible Markup Language (XML) data to file."}
+{"prompt": "Extensible Markup Language (XML) Data File Structures Design", "completion": "Design Extensible Markup Language (XML) data file structures that meet application requirements."}
+{"prompt": "Extensible Markup Language (XML) Data Parsing Implementation", "completion": "Implement code for parsing Extensible Markup Language (XML) data."}
+{"prompt": "Extensible Markup Language (XML) Data-Driven Solutions Implementation", "completion": "Implement data-driven solutions with Extensible Markup Language (XML)."}
+{"prompt": "Extensible Markup Language (XML) Document Creation", "completion": "Create an extensible markup language (XML) document."}
+{"prompt": "Extensible Markup Language (XML) Export Development", "completion": "Develop an application that exports data from an Extensible Markup Language (XML) format file."}
+{"prompt": "Extensible Markup Language (XML) Format Explanation", "completion": "Explain the Extensible Markup Language (XML) file format."}
+{"prompt": "Extensible Markup Language (XML) Import Development", "completion": "Develop an application that imports data from an Extensible Markup Language (XML) format file."}
+{"prompt": "Web Services Data Exchange", "completion": "Exchange data using web services with Extensible Markup Language (XML)."}
+{"prompt": "Data Cleansing Incorporation", "completion": "Incorporate data cleansing tasks within extract, transform, load (ETL) pipelines."}
+{"prompt": "Data Extraction Optimization", "completion": "Optimize data extraction through landing zones."}
+{"prompt": "Duplicate Entities Consolidation", "completion": "Consolidate duplicate entities with data matching tasks within extract, transform, load (ETL) pipelines."}
+{"prompt": "Data Consolidation in Staging", "completion": "Consolidate data in staging tables."}
+{"prompt": "Staging Data Transformation", "completion": "Transform data in staging tables."}
+{"prompt": "Windows-Based Application Creation with .NET Framework", "completion": "Create Windows-based applications using the .NET framework."}
+{"prompt": ".Net Framework Large-Scale Web Applications Troubleshooting", "completion": "Troubleshoot large-scale web applications dependent on the .NET Framework."}
+{"prompt": ".Net Framework Service-Oriented Web Applications Troubleshooting", "completion": "Troubleshoot service-oriented web applications dependent on the .NET Framework."}
+{"prompt": ".Net Framework Version Selection", "completion": "Select the version of .Net Framework for application development."}
+{"prompt": ".Net Framework Windows-Based Applications Troubleshooting", "completion": "Troubleshoot Windows-based applications dependent on the .NET Framework."}
+{"prompt": "Application Domain Creation", "completion": "Create application domains and assemblies using attributes, formatting and parsing base types, collections, events and exceptions, files and data streams, and generics."}
+{"prompt": "Data and Data Store Access", "completion": "Access data and data stores using the .NET Framework."}
+{"prompt": "Large-Scale Web Application Build", "completion": "Build large-scale web applications using the .NET Framework with minimum coding."}
+{"prompt": "Service-Oriented Application Build", "completion": "Build service-oriented applications using the .NET Framework."}
+{"prompt": "Acceptance Test Data Variations Definition", "completion": "Define variations in data that are possible for an acceptance testing script."}
+{"prompt": "Determine Acceptance Testing Discrepancies", "completion": "Determine if there are discrepancies between original software specifications and final acceptance testing scenarios."}
+{"prompt": "User Experience Acceptance Test Design", "completion": "Design alterations to user experience components to meet acceptance testing criteria."}
+{"prompt": "Agile Kanban Board Management", "completion": "Manage project feature progress with agile Kanban boards."}
+{"prompt": "Agile Solutions Development", "completion": "Communicate blocking issues during the development cycle."}
+{"prompt": "Blocking Issue Communication", "completion": "Demonstrate functionality developed during a sprint demo."}
+{"prompt": "External Partners Agile Project Goal Accomplishment", "completion": "Accomplish agile project goals through collaboration with external partners."}
+{"prompt": "Functionality Demonstration", "completion": "Coordinate stand-up meetings during the agile software development process."}
+{"prompt": "Internal Partners Agile Project Goal Accomplishment", "completion": "Accomplish agile project goals through collaboration with internal partners."}
+{"prompt": "Agile Task Roadblock Identification", "completion": "Compare the advantages of using the agile versus waterfall methodology for developing software."}
+{"prompt": "Classification", "completion": "Explain complex mathematical models and algorithms."}
+{"prompt": "List Sorting", "completion": "Write different algorithms for sorting a list."}
+{"prompt": "Recursive Function Writing", "completion": "Write recursive functions."}
+{"prompt": "Amazon Gateway Application Programming Interface (API) Identification", "completion": "Identify Representational state transfer (REST) application programming interfaces (API) for use in Amazon API Gateway."}
+{"prompt": "Amazon Web Services (AWS) Application Collaboration Development", "completion": "Develop real-time collaboration in an Amazon Web Services (AWS) application."}
+{"prompt": "Amazon Web Services (AWS) Applications Development", "completion": "Develop Amazon Web Services (AWS) applications via language-specific libraries."}
+{"prompt": "Amazon Web Services (AWS) Internet of Things (IoT) Software Development", "completion": "Develop software on the Amazon Web Services (AWS) Internet of Things (IoT) platform."}
+{"prompt": "Build Amazon Web Services (AWS) Programs", "completion": "Build programs that use Amazon Web Services (AWS) resources."}
+{"prompt": "Android Software Package Build", "completion": "Build software packages for the Android operating system."}
+{"prompt": "Build Apple IOS Mobile App", "completion": "Build mobile apps for Apple IOS operating systems."}
+{"prompt": "Algorithm Documentation", "completion": "Document complex algorithms."}
+{"prompt": "Application Architecture Diagrams Creation", "completion": "Create application architecture diagrams with the Unified Modeling Language (UML)."}
+{"prompt": "Application Type Evaluation", "completion": "Evaluate different types of applications for client requirements."}
+{"prompt": "Automated Software Testing Tools", "completion": "Develop automated software testing tools."}
+{"prompt": "Data Processing", "completion": "Develop data processing applications."}
+{"prompt": "Documented Application Development Solutions Design", "completion": "Design application development solutions with documentation."}
+{"prompt": "Enable Collaborative Application Development", "completion": "Enable collaborative application development through source control systems."}
+{"prompt": "Native Application Solutions Development", "completion": "Develop native application solutions for meeting client specifications."}
+{"prompt": "Needs Visualization Design", "completion": "Design wireframes that visualize user needs."}
+{"prompt": "Provide Customization Settings", "completion": "Provide application customization settings."}
+{"prompt": "Web Application Solutions Development", "completion": "Develop web application solutions for meeting client specifications."}
+{"prompt": "Write Secure Applications", "completion": "Write secure applications based on industry standards."}
+{"prompt": "Access Application Programming Interface (API) to Process Task", "completion": "Access an application programming interface (API) with a programming language to process a task."}
+{"prompt": "Access Application Programming Interface (API) to Retrieve Data", "completion": "Access an application programming interface (API) with a programming language to retrieve data for a task."}
+{"prompt": "Application Programming Interface (API) Task Identification", "completion": "Identify the application programming interface (API) required for a task."}
+{"prompt": "Automated Testing Tools Development", "completion": "Develop automated testing tools with application programming interface(s)(API)."}
+{"prompt": "Data Documentation", "completion": "Document  data required by application programming interface(s) (API's)."}
+{"prompt": "Database Selection", "completion": "Select database service provider for an application programming interface (API)."}
+{"prompt": "Interface Creation", "completion": "Create a representational state transfer (REST) interface for an application programming interface (API)."}
+{"prompt": "Systems Engineering", "completion": "Engineer systems that leverage multi-platform application programming interface (API)."}
+{"prompt": "Testing API", "completion": "Test application programming interface (API) interoperability and compatibility."}
+{"prompt": "Code Creation for Processes", "completion": "Create programming code for processes on a server for an application programming interface (API)."}
+{"prompt": "Relationship Design", "completion": "Design relationships between software applications and services."}
+{"prompt": "Software Application Design", "completion": "Design software application architecture."}
+{"prompt": "Software Application Solutions", "completion": "Build software application solutions."}
+{"prompt": "Differentiate Between Artificial Intelligence and Machine Learning", "completion": "Explain the differences between artificial intelligence (AI) and machine learning (ML)."}
+{"prompt": "Expert System Functionality Explanation", "completion": "Explain the functionality of an expert system in artificial intelligence (AI)."}
+{"prompt": "Optimal Value Finding", "completion": "Find an optimal value of a function with evolutionary computation."}
+{"prompt": "Data Formatting Software Development", "completion": "Develop software that automatically formats data."}
+{"prompt": "Data Validation Software Development", "completion": "Develop software that automatically validates data."}
+{"prompt": "File Processing Software Development", "completion": "Develop software that automatically processes files."}
+{"prompt": "Notifications Software Development", "completion": "Develop software that automatically sends notifications."}
+{"prompt": "Report Creation Software Development", "completion": "Develop software that automatically creates reports."}
+{"prompt": "Business Back-Up Requirements Identification", "completion": "Identify data to back up based on business requirements."}
+{"prompt": "Determine Math Equation Operations", "completion": "Determine the arithmetic operations needed to calculate  basic math equations."}
+{"prompt": "Math Equation Calculation", "completion": "Calculate basic math equations."}
+{"prompt": "Math Function Diagram", "completion": "Diagram basic math functions in the design of software solutions."}
+{"prompt": "Perform Array Arithmetic", "completion": "Perform arithmetic on arrays in software development."}
+{"prompt": "Perform Data Structure Arithmetic", "completion": "Perform arithmetic on data structures in software development."}
+{"prompt": "Perform Math Functions", "completion": "Perform basic math functions in code development."}
+{"prompt": "Processing Model Development", "completion": "Develop data processing models, including sourcing, loading, transformation, and extraction."}
+{"prompt": "New Product Development for Business Problems", "completion": "Develop products that solve a new business problems."}
+{"prompt": "Application Creation", "completion": "Create applications in alignment with business requirements."}
+{"prompt": "Business Requirements Functional Testing Analysis", "completion": "Analyze business requirements for functional testing."}
+{"prompt": "Business Requirements Task Prioritization", "completion": "Prioritize tasks in alignment with business requirements."}
+{"prompt": "Business Requirements Work Estimation", "completion": "Estimate the scope of work based on business requirements."}
+{"prompt": "Information System Analysis", "completion": "Analyze information systems in the context of business requirements."}
+{"prompt": "Strategy Optimization Analysis", "completion": "Analyze business intelligence and trend data for business optimization strategies."}
+{"prompt": "Business Requirements Translation to Technical Requirements", "completion": "Translate business requirements into technical requirements."}
+{"prompt": "C Function Calling", "completion": "Call functions using the C programming language."}
+{"prompt": "C Function Creation", "completion": "Create functions using the C programming language."}
+{"prompt": "C Loop Implementation", "completion": "Implement loops to iterate with the C programming language."}
+{"prompt": "C Variable Declaration", "completion": "Declare variables using C programming language."}
+{"prompt": "Dynamic Memory Allocation Identification", "completion": "Identify dynamic memory allocation."}
+{"prompt": "Element Passing", "completion": "Pass array elements to a function."}
+{"prompt": "String Declaration", "completion": "Declare a string of characters."}
+{"prompt": "Struct Definition", "completion": "Define structs containing different types of variables."}
+{"prompt": "Union Creation", "completion": "Create unions with member values."}
+{"prompt": "Variable Storage", "completion": "Store multiple related variables of the same data type with an array."}
+{"prompt": "Code Creation For Scenario Variants", "completion": "Create code for scenario variants with if-else statements."}
+{"prompt": "Windows-Based Application Creation with C#", "completion": "Create Windows-based applications and large-scale web applications using C#."}
+{"prompt": "C# Application Multi-Platform Development", "completion": "Develop C# applications that work across multiple platforms."}
+{"prompt": "C# Object-Oriented Programming Implementation", "completion": "Implement object-oriented programming using C#."}
+{"prompt": "C# Solution Development", "completion": "Develop C# solutions that meet client specifications."}
+{"prompt": "C# Solution Implementation", "completion": "Implement software engineering solutions using C#."}
+{"prompt": "Class Implementation Control", "completion": "Control class implementation via abstract classes and interfaces."}
+{"prompt": "Class Interpretation", "completion": "Interpret inherited classes via polymorphism."}
+{"prompt": "Data Security Enforcement", "completion": "Enforce data security via encapsulation."}
+{"prompt": "Data Store Access", "completion": "Access data and data stores using C# (Programming Language)."}
+{"prompt": "Design C# Solution Architectures", "completion": "Design C# solution architectures."}
+{"prompt": "Inheritance Control", "completion": "Control inheritance via virtual, override, and new keywords."}
+{"prompt": "Method Security Enforcement", "completion": "Enforce method security via access modifiers."}
+{"prompt": "Structs from Classes Differentiation", "completion": "Differentiate structs from classes."}
+{"prompt": "Troubleshoot Application Performance Issues", "completion": "Troubleshoot performance issues on systems running C# applications."}
+{"prompt": "C++ Function Calling", "completion": "Call functions using C++."}
+{"prompt": "C++ Function Creation", "completion": "Create functions using C++."}
+{"prompt": "C++ Loop Implementation", "completion": "Implement loops to iterate in C++."}
+{"prompt": "C++ Pointer Usage", "completion": "Explain the usage of pointers in C++."}
+{"prompt": "C++ Variable Declaration", "completion": "Declare numeric and character variables in C++."}
+{"prompt": "Access Method Creation with C++", "completion": "Create access methods for a class with C++."}
+{"prompt": "Define a Member Variable  in C++", "completion": "Define member variables for a class with C++."}
+{"prompt": "Member Function Creation with C++", "completion": "Create member functions for a class with C++."}
+{"prompt": "Object-Oriented Class Creation with C++", "completion": "Create an object-oriented class with C++."}
+{"prompt": "C++ Singleton Class Creation", "completion": "Create a singleton class with C++."}
+{"prompt": "Mathematical Calculations Software Development", "completion": "Develop software that performs mathematical calculations."}
+{"prompt": "Cascading Style Sheets (CSS) Integration", "completion": "Integrate Cascading Style Sheets (CSS) in the development of websites."}
+{"prompt": "Class Style Implementation", "completion": "Implement a Cascading Style Sheets (CSS) style for a class."}
+{"prompt": "Code Separation", "completion": "Separate presentational code from data code in a web page using cascading style sheets (CSS)."}
+{"prompt": "Element Style Implementation", "completion": "Implement a Cascading Style Sheets (CSS) style for an element."}
+{"prompt": "External Style Sheet Implementation", "completion": "Implement an external Cascading Style Sheets (CSS) style sheet."}
+{"prompt": "ID Style Implementation", "completion": "Implement a Cascading Style Sheets (CSS) style for an ID."}
+{"prompt": "Inline Style Implementation", "completion": "Implement an inline Cascading Style Sheets (CSS) style."}
+{"prompt": "Style Design", "completion": "Design style guidelines to be integrated via Cascading Style Sheets (CSS)."}
+{"prompt": "Style Implementation", "completion": "Implement page styles via Cascading Style Sheets (CSS)."}
+{"prompt": "Goal Identification", "completion": "Identify the required goals and develops steps to achieve goals."}
+{"prompt": "Goal Implementation", "completion": "Implement steps to attain goals."}
+{"prompt": "Code Maintainability Evaluation", "completion": "Evaluate code maintainability during a code review."}
+{"prompt": "Code Readability Evaluation", "completion": "Evaluate code readability during a code review."}
+{"prompt": "Code Review Process Standardization", "completion": "Standardize the code review process."}
+{"prompt": "Code Review Scope Standardization", "completion": "Standardize the code review scope."}
+{"prompt": "Provide Code Feedback", "completion": "Provide constructive feedback for code improvement."}
+{"prompt": "Collaborative Programming Capabilities Assessment", "completion": "Assess team members' capabilities for collaborative programming."}
+{"prompt": "Collaborative Programming Needs Assessment", "completion": "Assess corporate environments for collaborative programming needs."}
+{"prompt": "Collaborative Programming Teaching", "completion": "Teach collaborative programming to computer programmers."}
+{"prompt": "Information Technology Issues Resolution", "completion": "Resolve information technology issues in collaboration with computer programmers."}
+{"prompt": "Software Development Collaboration Tools Selection", "completion": "Select the collaboration tools for software development."}
+{"prompt": "Information Clarification", "completion": "Clarify technical information as requested."}
+{"prompt": "Information Preparation", "completion": "Prepare technical information in alignment with accessibility guidelines."}
+{"prompt": "Information Provision", "completion": "Provide technical information that appeals to various learning styles."}
+{"prompt": "Listen to Opinions", "completion": "Listen to other opinions with intention of understanding."}
+{"prompt": "Misunderstood Messages Minimization", "completion": "Minimize the likelihood of a misunderstood message."}
+{"prompt": "Point of View Articulation", "completion": "Articulate a point of view with supporting evidence."}
+{"prompt": "Computer and Software Task Improvement", "completion": "Improve current tasks on computers and software."}
+{"prompt": "Conditional and Logical Operator Differentiation", "completion": "Differentiate between conditional and logical operators."}
+{"prompt": "Error Type Differentiation", "completion": "Differentiate between syntax, runtime, and logical errors."}
+{"prompt": "Recursion Explanation", "completion": "Explain recursive algorithms."}
+{"prompt": "Scoping Optimization", "completion": "Optimize memory usage through variable scoping."}
+{"prompt": "Selection Construct Application", "completion": "Apply selection constructs during programming."}
+{"prompt": "Algorithm Performance Impact Interpretation", "completion": "Interpret the impacts of various algorithms on performance."}
+{"prompt": "Central Processing Unit (CPU) Architecture Evolution Articulation", "completion": "Articulate the evolution of central processing unit (CPU) architecture."}
+{"prompt": "Central Processing Unit (CPU) Interaction Diagram", "completion": "Diagram the interaction of a central processing unit (CPU) with memory and input/output devices in a computer."}
+{"prompt": "Central Processing Unit (CPU) Speed Evolution Articulation", "completion": "Articulate the evolution of central processing unit (CPU) clock speed in microcomputers."}
+{"prompt": "Computer Performance Features Identification", "completion": "Identify the features that affect computer performance."}
+{"prompt": "Data Structure Solution Articulation", "completion": "Articulate how various data structures will affect a solution."}
+{"prompt": "Memory Differentiation", "completion": "Differentiate between random access memory (RAM) and read-only memory (ROM) in a computer."}
+{"prompt": "Memory Interaction Diagram", "completion": "Diagram interaction between memory and the central processing unit (CPU) in a computer."}
+{"prompt": "Memory Organization Description", "completion": "Describe memory organization in a computer."}
+{"prompt": "Object-Oriented Programming Expression", "completion": "Express object-oriented programming."}
+{"prompt": "Operating System Differentiation", "completion": "Differentiate between operating systems."}
+{"prompt": "Program Central Processing Unit (CPU) Access Explanation", "completion": "Explain how programs compete for access to the central processing unit (CPU)."}
+{"prompt": "Program Counter (PC) Interaction Diagram", "completion": "Diagram interaction between program and program counter (PC) in the central processing unit (CPU)."}
+{"prompt": "Program Expansion Demonstration", "completion": "Expand programs to use multiple processing units simultaneously."}
+{"prompt": "Programming Language Differences Articulation", "completion": "Articulate the differences between functional and procedural programming languages."}
+{"prompt": "Register Interaction Diagram", "completion": "Diagram the interaction between memory and registers in the central processing unit (CPU)."}
+{"prompt": "Configuration Manager Identification", "completion": "Identify configuration managers that oversee the configuration management process and have final approval of changes."}
+{"prompt": "Consistent Process Leadership", "completion": "Lead others with consistent processes."}
+{"prompt": "Process and Product Optimization Identification", "completion": "Identify areas of optimization with processes and products."}
+{"prompt": "Value-Add Improvement Execution", "completion": "Execute on value-add improvements."}
+{"prompt": "Version Control Software Integration", "completion": "Integrate source code into version control software used in continuous integration processes."}
+{"prompt": "Application Development Alignment", "completion": "Align application development across multiple groups from inception through maintain and operate phases."}
+{"prompt": "Application, Service, or Data Store Design", "completion": "Design applications, services, or data stores for parallel development."}
+{"prompt": "Application, Service, or Data Store Engineering", "completion": "Engineer applications, services, or data stores to meet non-functional requirements across multiple groups."}
+{"prompt": "Code and Services Coordination", "completion": "Coordinate the relationship between internal code and external services."}
+{"prompt": "Code Coordination", "completion": "Coordinate the integration of code between team members."}
+{"prompt": "System Development Coordination", "completion": "Coordinate the development of modular systems."}
+{"prompt": "Devise Efficient Business Processes", "completion": "Devise a more efficient business process through creative thinking."}
+{"prompt": "Work-Related Issue Solution", "completion": "Solve work-related issues using creative thinking."}
+{"prompt": "Computer Program Application Designing", "completion": "Design new applications with computer programming."}
+{"prompt": "Information Research", "completion": "Research information for a well-rounded opinion."}
+{"prompt": "Logical Information Evaluation", "completion": "Evaluate information for logical flaws."}
+{"prompt": "Customer Experience Assessment", "completion": "Assess customer experience through telemetry."}
+{"prompt": "Customer Priorities Assessment", "completion": "Assess the current and future customer needs and priorities to manage customer relationships."}
+{"prompt": "Customer Satisfaction Evaluation", "completion": "Evaluate customer satisfaction to manage customer relationships."}
+{"prompt": "Application and Service Defect Remediation", "completion": "Remediate defects of applications, services, or data stores for a customer."}
+{"prompt": "Application and Service Defect Troubleshooting", "completion": "Troubleshoot defects of applications, services, or data stores for a customer."}
+{"prompt": "Application and Service Support", "completion": "Provide ongoing support of applications, services, or data stores for customer."}
+{"prompt": "Development Tasks Coordination", "completion": "Coordinate development tasks in meeting functional requirements for customers."}
+{"prompt": "Actionable Insight Articulation", "completion": "Articulate actionable insights from the data being presented."}
+{"prompt": "Data Need Documentation", "completion": "Document who needs what data where and when."}
+{"prompt": "Leverage Reporting Technologies", "completion": "Leverage different technologies that can be used for reporting."}
+{"prompt": "Reporting Needs Improvement Identification", "completion": "Identify improvements objectively in current reporting needs."}
+{"prompt": "Visual Dashboard Building", "completion": "Build dashboards containing meaningful visuals with multiple data sources."}
+{"prompt": "Data Quality and Quantity Evaluation", "completion": "Evaluate data quality and quantity for application, service, or data store usage."}
+{"prompt": "Legal Data Compliance Support", "completion": "Provide support of legal and regulatory compliance for data."}
+{"prompt": "Business Application Database Design", "completion": "Design databases to support business applications, ensuring system scalability, security, performance, and reliability for data architecture."}
+{"prompt": "Data Architecture Model Development", "completion": "Develop data architecture models for applications, metadata tables, views, or related database structures."}
+{"prompt": "Database Application Interface Design", "completion": "Design database applications interfaces for access of the generic database structure."}
+{"prompt": "Analytics Infrastructure Creation", "completion": "Create an analytics infrastructure that enable data analysis."}
+{"prompt": "Data Architecture Creation", "completion": "Create data architectures, including databases, and large-scale processing systems."}
+{"prompt": "Data Set Processes Creation", "completion": "Create data set processes for modeling, mining, acquisition, and verification."}
+{"prompt": "Data Entry Optimization", "completion": "Determine ways to optimize entry of data."}
+{"prompt": "Input Action Execution", "completion": "Execute keyboard and mouse input actions on various operating systems."}
+{"prompt": "Data Access Provision", "completion": "Provide appropriate access to traditional and emerging data."}
+{"prompt": "Perform Data Processing", "completion": "Perform data preprocessing."}
+{"prompt": "Graphic Pipeline Implementation", "completion": "Implement graphics pipelines in completion of the stages of rendering operations."}
+{"prompt": "HTTP Pipelining Implementation", "completion": "Implement HTTP pipelining that issue multiple HTTP requests through the same TCP connection."}
+{"prompt": "Instruction Pipeline Implementation", "completion": "Implement instruction pipelines to allow for overlapping execution of multiple instructions with the same circuitry."}
+{"prompt": "Software Pipeline Implementation", "completion": "Implement software pipelines to complete computing processes in parallel."}
+{"prompt": "Data Summary Report Design", "completion": "Design reports summarizing business, financial, or economic data."}
+{"prompt": "Data Summary Report Generation", "completion": "Generate reports summarizing business, financial, or economic data."}
+{"prompt": "Media Content Interface Guideline Development", "completion": "Develop interface guidelines for media content for data presentation"}
+{"prompt": "Media Content Interface Guideline Documentation", "completion": "Document interface guidelines for media content for data presentation"}
+{"prompt": "Technology-Related Documentation", "completion": "Document design specifications, installation instructions, and other technology-related information for data presentation."}
+{"prompt": "Data Structure Map Creation", "completion": "Create a data structure map."}
+{"prompt": "Data Structure Operation", "completion": "Operate data structure within an application, service, or data store."}
+{"prompt": "List, Stack, and Queue Differentiation", "completion": "Differentiate between a list, stack, and a queue."}
+{"prompt": "Business Problem Visualization Creation", "completion": "Create visuals for business problems."}
+{"prompt": "Color-Blindness Chart Building", "completion": "Build charts with accommodations for color-blindness."}
+{"prompt": "Database Issue Corrections", "completion": "Correct issues that may arise with databases and database management systems."}
+{"prompt": "Database Issue Troubleshooting", "completion": "Troubleshoot issues that may arise with databases and database management systems."}
+{"prompt": "Database Connection", "completion": "Connect to a database."}
+{"prompt": "Query Result Exporting", "completion": "Export the results from a query."}
+{"prompt": "View Database Table", "completion": "View tables in a database."}
+{"prompt": "Microsoft SQL Server Data Entity Implementation", "completion": "Implement data entities, security policies, and data recovery policies for Microsoft SQL Server."}
+{"prompt": "Microsoft SQL Server Data Entity Planning", "completion": "Plan data entities, security policies, and data recovery policies for Microsoft SQL Server."}
+{"prompt": "Microsoft SQL Server Data Entity Testing", "completion": "Test data entities, security policies, and data recovery policies for Microsoft SQL Server."}
+{"prompt": "Write Data Validation SQL Scripts", "completion": "Write SQL scripts for validating data in a database."}
+{"prompt": "Application Profiling Debugging Assessment", "completion": "Assess an application's profiling information during debugging."}
+{"prompt": "Database Storage Assessment", "completion": "Assess database storage usage."}
+{"prompt": "Validate Changes", "completion": "Validate the results of application changes made from debugging."}
+{"prompt": "File Log Debugging Analysis", "completion": "Analyze application log files during debugging."}
+{"prompt": "Filesystem Storage Assessment", "completion": "Assess filesystem storage usage."}
+{"prompt": "Explain Hypertext Transfer Protocol (HTTP) Status Code", "completion": "Explain common Hypertext Transfer Protocol (HTTP) status codes."}
+{"prompt": "Log Analysis", "completion": "Analyze system and application logs."}
+{"prompt": "Log Reconciliation", "completion": "Reconcile logs from various system components."}
+{"prompt": "Monitor System Performance Debugging", "completion": "Monitor system performance during debugging."}
+{"prompt": "Network Connectivity Troubleshooting", "completion": "Troubleshoot client-server network connectivity issues."}
+{"prompt": "Perform Software Debugging", "completion": "Perform debugging of software assurance testing processes and tools."}
+{"prompt": "Permission Assessment", "completion": "Assess application identity security permissions."}
+{"prompt": "Software Issues User Feedback Documentation", "completion": "Document user feedback to identify and resolve user software issues."}
+{"prompt": "System Software Issue Resolution", "completion": "Resolve system software issues."}
+{"prompt": "Determine Course of Action", "completion": "Determine when a course of action should be abandoned."}
+{"prompt": "Decision Assessment", "completion": "Assess the importance of a decision."}
+{"prompt": "Needs Consideration", "completion": "Consider the business needs of project stakeholders in the context of decision making."}
+{"prompt": "Possible Solution Evaluation", "completion": "Evaluate possible solutions for any challenge."}
+{"prompt": "Create Diagrams", "completion": "Create a diagram of pros and cons for assessing choices."}
+{"prompt": "Deep Learning Model Training", "completion": "Train a deep learning model to classify an image."}
+{"prompt": "Graphics Processing Unit (GPU) Advantage Description", "completion": "Describe the advantages of using a graphics processing unit (GPU)."}
+{"prompt": "Basic Calculations", "completion": "Perform basic calculations."}
+{"prompt": "Low-Fidelity Prototype Creation", "completion": "Create a low-fidelity (paper or storyboard) prototype of a solution."}
+{"prompt": "High-Fidelity Prototype Build", "completion": "Build a high-fidelity prototype."}
+{"prompt": "Test Scenario and Question Preparation", "completion": "Prepare test scenarios and questions."}
+{"prompt": "System Performance Modification", "completion": "Make additional modifications, if needed, following the performance measurement of a modified system."}
